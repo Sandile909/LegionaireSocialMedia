@@ -1,0 +1,11 @@
+.text-container{
+    width: 210px;
+    height: 15px;
+    font-size: 12.5px;
+    background-image: linear-gradient(100deg,#f7931e,#cc5c00);
+    color: #000000;
+    border-radius: 2px;
+    text-shadow: #ffffff;
+    background-image: /storage/emulated/0/Downloads/piano feel.jpg;
+    transform: tra;
+}
